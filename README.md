@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-<a href="https://chain.link" target="_blank">
-<img src="https://raw.githubusercontent.com/smartcontractkit/chainlink/develop/docs/logo-chainlink-blue.svg" width="225" alt="Chainlink logo">
+<a href="http://roturalabs.com" target="_blank">
+<img src="http://roturalabs.com/assets/logo.512dfce5.png" width="225" alt="Rotura Labs logo">
 </a>
 </p>
 <br/>
